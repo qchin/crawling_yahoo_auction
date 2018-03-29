@@ -5,9 +5,9 @@ This program is to automatively get some simple seller's information on Yahoo Au
 
 ## Environment
 
-**ÅEWindows**
+**- Windows**
 
-**ÅEPython3**
+**- Python3**
 
 ## usage
 
